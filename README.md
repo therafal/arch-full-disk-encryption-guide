@@ -1,6 +1,6 @@
 # Arch Linux Installation with NVIDIA Drivers and Full Disk Encryption Guide
 
-This guide offers step-by-step instructions for installing Arch Linux with NVIDIA drivers and full disk encryption. It assumes a basic familiarity with the Arch installer tools and can be adapted for Arch-derived distributions like Arch and Artix.
+This guide offers step-by-step instructions for installing Arch Linux with NVIDIA drivers and full disk encryption. It assumes a basic familiarity with the Arch installer tools and can be adapted for Arch-derived distributions like Artix.
 
 ## Pre-Installation Steps
 
