@@ -77,7 +77,7 @@ mount /dev/sdX1 /mnt/boot/efi
 pacstrap /mnt base linux linux-firmware linux-headers intel-ucode
 ```
 
-- Additional kernels like `linux-lts` or `linux-zen` can be added. For AMD CPUs, use `amd-ucode`.
+- Other kernels like `linux-lts` or `linux-zen` can be installed. For AMD CPUs, use `amd-ucode`.
 
 ### 10. Install NVIDIA Drivers
 
