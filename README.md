@@ -256,5 +256,3 @@ systemctl enable dhcpcd
 exit
 reboot now
 ```
-
-Remember that these instructions require careful understanding and adherence, given the complexity of the Arch Linux installation process.
